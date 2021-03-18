@@ -1,6 +1,3 @@
-
-[<img src="https://media.istockphoto.com/photos/man-push-number-zero-down-the-cliff-where-has-the-number-2021-with-picture-id1283027754?k=6&m=1283027754&s=612x612&w=0&h=Lrh6WbjrpyMUcjXsamFsXZnt417At8tRJa6hqEJBp18=" width="700" height="300" />
-
 ### Hi there, I'm Mohamed Seyam 👋
 
 BSc student at Cairo University | systems and biomedical engineering department.
