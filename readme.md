@@ -4,11 +4,10 @@ BSc student at Cairo University | systems and biomedical engineering department.
 
 ## I'm a junior student !!
 
-- 🌱 I’m currently studying biomdecial engineering 
-- 🔭 I just started my first digital image processing course 
-- 👯 I’m looking to have internship in Research and Development.
-- 🥅 2021 Goals: make a remakable progress in learning digital image processing.
-- ⚡ Fun fact: I love to music and series. 
+- 🌱 I’m currently studying systems and biomdecial engineering 
+- 🔭 I am now working on a deep learning project in the area of medical field with title "swalloing analysis of VFFS with deep learning approaches" 
+- 👯 I’m looking to have internship in Research and Development in the area of ML & DL.
+- 🥅 2021 Goals: make a remakable progress in diving in the era of DL. 
 
 
 ### Connect with me:
