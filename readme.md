@@ -5,7 +5,8 @@ BSc student at Cairo University | systems and biomedical engineering department.
 ## I'm a Senior student !!
 
 - 🌱 I’m currently studying systems and biomdecial engineering 
-- 🔭 I am now working on a deep learning project in the area of medical field with title "Artifical intelligence Powered tool " 
+- 🔭 I am now working on a deep learning project in the area of medical field with title "Artificial Intelligence-Powered Toolkit for Automated Identification of Swallowing Kinematics and Impairments in X-Ray Videofluoroscopy" 
+
 - 👯 I’m looking to have internship in Research and Development in the area of ML & DL.
 - 🥅 2022 Goals: make a remakable progress in diving in the era of DL and start to work as afreelancer in this field. 
 
