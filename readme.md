@@ -23,10 +23,7 @@ BSc student at Cairo University | systems and biomedical engineering department.
 
 
 <br />
-<br />
-### :zap: GitHub Status
-<img align="left" alt="Mohamed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohamed-seyam&show_icons=true" />
-<br />
+
 
 
 
