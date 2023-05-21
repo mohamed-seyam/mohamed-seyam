@@ -1,15 +1,10 @@
 ### Hi there, I'm Mohamed Seyam 👋
 
-Fresh Graduate of Cairo University | systems and biomedical engineering department.
-
-## I'm a Senior student !!
+Junior Computer Vision Engineer at medsoft.
 
 - 🌱 I Studied systems and biomdecial engineering 
+- 👯 I am currently working as a computer vision engineer at medsoft.
 - 🔭 my graduation project was in the area of Deep learning and its application in medical field with title "Artificial Intelligence-Powered Toolkit for Automated Identification of Swallowing Kinematics and Impairments in X-Ray Videofluoroscopy" 
-
-- 👯 I'm looking for a job vaccancy as junior Ai engineer 
-
-
 
 ### Connect with me:
 
