@@ -1,10 +1,18 @@
-### Hi there, I'm Mohamed Seyam 👋
+## Hi there, I'm Mohamed Seyam! 👋
 
-Junior Computer Vision Engineer at medsoft.
+I'm a passionate R&D Engineer specializing in Computer Vision and Medical Imaging. Currently, I'm working at Medsoft in the exciting field of CranioMaxilloFacial Surgery, where I focus on mesh processing and CT image analysis.
 
-- 🌱 I Studied systems and biomdecial engineering 
-- 👯 I am currently working as a computer vision engineer at medsoft.
-- 🔭 my graduation project was in the area of Deep learning and its application in medical field with title "Artificial Intelligence-Powered Toolkit for Automated Identification of Swallowing Kinematics and Impairments in X-Ray Videofluoroscopy" 
+### 🔍 What I'm up to:
+
+- Developing cutting-edge computer vision solutions for medical applications.
+- Leveraging AI to advance the field of CranioMaxilloFacial Surgery.
+- Exploring the intersection of deep learning and healthcare.
+
+### 🌱 My Journey:
+
+- 🎓 Graduated in Systems and Biomedical Engineering.
+- 💡 Conducted research in the area of "Artificial Intelligence-Powered Toolkit for Automated Identification of Swallowing Kinematics and Impairments in X-Ray Videofluoroscopy" during my academic journey.
+
 
 ### Connect with me:
 
