@@ -11,7 +11,7 @@ I'm a passionate R&D Engineer specializing in Computer Vision and Medical Imagin
 ### 🌱 My Journey:
 
 - 🎓 Graduated in Systems and Biomedical Engineering.
-- 💡 Conducted research in the area of "Artificial Intelligence-Powered Toolkit for Automated Identification of Swallowing Kinematics and Impairments in X-Ray Videofluoroscopy" during my academic journey.
+- 💡 Conducted research in the area of Deep Learning With Title "Artificial Intelligence-Powered Toolkit for Automated Identification of Swallowing Kinematics and Impairments in X-Ray Videofluoroscopy" during my academic journey.
 
 
 ### Connect with me:
